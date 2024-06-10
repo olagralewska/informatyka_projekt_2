@@ -6,9 +6,9 @@ WtyczkaNaZajeciachDialog
   1. Otwórz oprogramowanie QGIS.
   2. Przejdź do menu ''Wtyczki'' i wybierz ''Zarządzaj i instaluj wtyczki''
   3. Nastepnie przejdź do zakładki ''Ustawienia'' i kliknij przycisk       ''Dodaj''   w celu dodania nowego repozytorium.
-  4. Wprowadź nazwę repozytorium (dla przykładu.:"Wtyczkazajęcia") oraz podaj adres URL: [repository_url].
+  4. Wprowadź nazwę repozytorium (dla przykładu.:"WtyczkaNaZajęciah") oraz podaj adres URL: [repository_url].
   5. Zapisz nowe repozytorium.
-  6. Wejdź do zakładki ''Wtyczki'' i wyszukaj ''Wtyczkazajęcia'' w pasku wyszukiwania.
+  6. Wejdź do zakładki ''Wtyczki'' i wyszukaj ''WtyczkaNazajęciah'' w pasku wyszukiwania.
   7. Wybierz wtyczkę, klikając na jej nazwę i zainstaluj.
   8. Po instaalcji dostęp można uzyskać wchodząc w menu ''Wtyczki''.
 # OBSŁUGA WTYCZKI 
