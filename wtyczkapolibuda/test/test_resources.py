@@ -8,9 +8,9 @@
 
 """
 
-__author__ = '01169935@pw.edu.pl'
-__date__ = '2023-05-22'
-__copyright__ = 'Copyright 2023, Jakub Tokarski'
+__author__ = '01179135@pw.edu.pl'
+__date__ = '2024-06-10'
+__copyright__ = 'Copyright 2024, Aleksandra Gralewska'
 
 import unittest
 
