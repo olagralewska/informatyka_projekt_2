@@ -17,4 +17,9 @@ WtyczkaNaZajeciachDialog
   2. 'WSPÓŁRZĘDNE PUNKTÓW\' - przycisk ten wyświetla współrzędne wszytskich zaznaczonych plików, punkty wyświetlane są w układzie zdefiniowanym przez warstwę.
   3. 'RÓŻNICA WYSOKOŚCI\' - przycisk ten oblicza rożnicę wysokości między dwoma wybranymi punktami w bieżącej warstwie i wyświetla wynik w oknie dialogowym. Funkcja ta działa tylko gdy punkt posiada atrybut 'H_PLEVRF20'. Różnica wysokości zwracana jest w metrach.
   4. 'POLE\' - przycisk ten oblicza powierzchnię wielokąta utworzonego przez wybór wielu punktów w bieżącej warstwie za pomocą metody Gaussa. Powierzchnia jest wyświetlana w oknie dialogowym, a jednostką wyświetlanej wartości jest metr kwadratowy.
-#
+# WYMAGANIA
+  - Python 3.11.5
+  - biblioteki math oraz PyQt 5
+  - QGIS 3.34.7
+# SYSTEM OPERACYJNY
+  - Windows 11
