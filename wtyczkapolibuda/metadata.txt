@@ -7,8 +7,8 @@ name=moja wtyczka
 qgisMinimumVersion=3.0
 description=wtyczka do Qgis
 version=0.1
-author=Jakub Tokarski
-email=01169935@pw.edu.pl
+author=Aleksandra Gralewska
+email=01179135@pw.edu.pl
 
 about=Provide a brief description of the plugin and its purpose.
 
