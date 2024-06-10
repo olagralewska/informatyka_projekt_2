@@ -1,10 +1,10 @@
 Plugin Builder Results
 
 Your plugin WtyczkaNaZajeciah was created in:
-    C:\Users\kubat\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\wtyczkapolibuda
+    C:\Users\ola\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\wtyczkapolibuda
 
 Your QGIS plugin directory is located at:
-    C:/Users/kubat/AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins
+    C:/Users/ola/AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins
 
 What's Next:
 
